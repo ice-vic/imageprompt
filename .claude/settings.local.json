@@ -3,7 +3,10 @@
     "allow": [
       "Bash(bun db:generate)",
       "Bash(\"C:\\Users\\luyh\\.bun\\bin\\bun.exe\" db:generate)",
-      "Bash(\"C:\\Users\\luyh\\.bun\\bin\\bunx.exe\" prisma generate)"
+      "Bash(\"C:\\Users\\luyh\\.bun\\bin\\bunx.exe\" prisma generate)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git add:*)"
     ],
     "deny": [],
     "ask": []
