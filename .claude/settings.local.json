@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bun db:generate)",
+      "Bash(\"C:\\Users\\luyh\\.bun\\bin\\bun.exe\" db:generate)",
+      "Bash(\"C:\\Users\\luyh\\.bun\\bin\\bunx.exe\" prisma generate)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
