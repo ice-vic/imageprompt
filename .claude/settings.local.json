@@ -6,7 +6,8 @@
       "Bash(\"C:\\Users\\luyh\\.bun\\bin\\bunx.exe\" prisma generate)",
       "Bash(git commit:*)",
       "Bash(git push:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(bun run dev)"
     ],
     "deny": [],
     "ask": []
